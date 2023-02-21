@@ -5,7 +5,7 @@ Exploit to Disable Chrome Extentions (to Bypass GoGuardian)
 
 Here are the steps to exploit to ChromeBook Extensions (to Bypass GoGuardian)
 
-UPDATE: JUST GO HERE: https://tylerhalltech.com/noguardian
+UPDATE: JUST GO HERE: https://tylerhalltech.com/noguardian or here: https://tylerhalltech.com/noguardian2/
 
 ## 1) PREPARE EXPLOIT
 Copy the code here:
