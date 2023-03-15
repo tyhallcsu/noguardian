@@ -3,6 +3,10 @@
 Exploit to Disable Chrome Extentions (to Bypass GoGuardian)
 A bookmarklet to disable extensions based on LTBEEF with an interface based on the chrome extension page. Here are the steps to exploit to ChromeBook Extensions (to Bypass GoGuardian)
 
+https://tylerhalltech.com/noguardian <br>
+https://tylerhalltech.com/noguardian2
+
+
 ## OVERVIEW:
 
  1. [INGOT METHOD](#1-ingot-method--patched-)
@@ -354,3 +358,6 @@ javascript: (document = window.document),
   );
   ```
  </details>
+ 
+ Find more exploits here: https://3kh0.github.io/ext-remover/
+ 
