@@ -5,20 +5,11 @@ A bookmarklet to disable extensions based on LTBEEF with an interface based on t
 
 ## OVERVIEW:
 
- 1. [INGOT METHOD](https://github.com/tyhallcsu/noguardian/edit/main/README.md#1-ingot-method)
- 2. [EXTENSION LAUNCHER METHOD](https://github.com/tyhallcsu/noguardian/edit/main/README.md#2-extension-launcher-method)
- 3. [POINT BLANK SWAP LAUNCHER METHOD](https://github.com/tyhallcsu/noguardian/edit/main/README.md#3a-point-blank-swap-launcher-bookmarlet)
+ 1. [INGOT METHOD](#1-ingot-method--patched-)
+ 2. [EXTENSION LAUNCHER METHOD](#2-extension-launcher-method)
+ 3. [POINT BLANK SWAP LAUNCHER METHOD](#3-point-blank-swap-launcher-method)
 
-UPDATE: JUST GO HERE: 
-https://tylerhalltech.com/noguardian or here: 
-https://tylerhalltech.com/noguardian2/
-
-More exploits found here: https://3kh0.github.io/ext-remover/
-
------------------------------
-
-
-		
+## USAGE: 
 
 ### 1) INGOT METHOD (!! PATCHED !!)
 
