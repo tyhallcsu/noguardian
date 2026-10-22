@@ -15,6 +15,8 @@ https://tylerhalltech.com/noguardian2
 
 ## USAGE: 
 
+<a name="1-ingot-method--patched-"></a>
+
 <details><summary>1) INGOT METHOD (!! PATCHED !!)</summary>
 <br>
 Ingot has been patched on Chrome 106 or after. This will not be updated.
@@ -49,6 +51,8 @@ Ingot has been patched on Chrome 106 or after. This will not be updated.
 
 ----------------
 
+<a name="2-extension-launcher-method"></a>
+
 <details><summary>2) EXTENSION LAUNCHER METHOD</summary>
  <br>
 A bookmarklet capable of installing extensions, for those without a allowlist.
@@ -71,6 +75,8 @@ A bookmarklet capable of installing extensions, for those without a allowlist.
 </details>
 
 ----------------
+
+<a name="3-point-blank-swap-launcher-method"></a>
 
 <details><summary>3) POINT BLANK SWAP LAUNCHER METHOD</summary>
  <br>
